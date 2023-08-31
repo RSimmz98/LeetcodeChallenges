@@ -13,3 +13,6 @@ var twoSum = function(nums, target) {
         }
     }
 }
+
+//testing the algorithm
+console.log(twoSum([1,2,6,7,3,9,4],5))
